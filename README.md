@@ -1,1 +1,1 @@
-# Database de cheats conhecidos
+# Database de cheats conhecidos de CSGO
