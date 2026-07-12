@@ -1,6 +1,13 @@
 {
   "cheats": [
     {
+      "md5": "69c242365f163ff3af0213f2e42b9cea",
+      "fileName": "hotwheels.dll",
+      "cheatName": "Hotwheels Cheat",
+      "fileSize": 4033536,
+      "sha256": "6dad323284e9dac493e5205b6d8480954a1d68342e5678d572c0308160275fef"
+    },
+    {
       "md5": "85b8270ea892901994a35719afe40e04",
       "fileName": "devldr.exe",
       "cheatName": "Aimware Loader",
