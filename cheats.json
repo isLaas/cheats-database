@@ -1,6 +1,20 @@
 {
   "cheats": [
     {
+      "md5": "120af46bd2c0f190ecfc6a2d6a7815d4",
+      "fileName": "neverlose.dll",
+      "cheatName": "Neverlose v1.1.1",
+      "fileSize": 55730176,
+      "sha256": "7e13617c63dd44ece0c966f00d949f87fa4d2542a7a4d9970ca2eed05dfd7f17"
+    },
+    {
+      "md5": "a968e6d448bc7a85dc3759307f10478c",
+      "fileName": "neverlose.dll",
+      "cheatName": "Neverlose v1.1.0",
+      "fileSize": 55731712,
+      "sha256": "434ed4b8d35f9bb48eebeab9bfd13f8f325792639d1d3bec2342a7a0fe2921e6"
+    },
+    {
       "md5": "69c242365f163ff3af0213f2e42b9cea",
       "fileName": "hotwheels.dll",
       "cheatName": "Hotwheels Cheat",
