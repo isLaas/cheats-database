@@ -1,6 +1,13 @@
 {
   "cheats": [
     {
+      "md5": "FC00333545807CDA61E799B18EBD1F1C",
+      "fileName": "nixware.dll",
+      "cheatName": "Nixware",
+      "fileSize": 50374400,
+      "sha256": "139E7C4D110D5587ED9EFAF7F9313B21004B966F2F20A176CA655BFEDB16809C"
+    },
+    {
       "md5": "120af46bd2c0f190ecfc6a2d6a7815d4",
       "fileName": "neverlose.dll",
       "cheatName": "Neverlose v1.1.1",
