@@ -112,13 +112,47 @@
       "fileSize": 3538944,
       "sha256": null
     },
-
     {
       "md5": "8438484aa5dc095b650735cc728685d8",
       "fileName": "kamidere.dll",
       "cheatName": "Kamidere",
       "fileSize": 50364416,
       "sha256": null
+    },
+    {
+      "md5": "a2fb3d8fc602cde55b2e42d347a49c60",
+      "fileName": "cumidere_new.dll",
+      "cheatName": "Kamidere (cumidere_new)",
+      "fileSize": 6733824,
+      "sha256": "556d81b04b16b2cb44131caf4fc3c6d1a87e026d987ccfd8b53f5f25704495e1"
+    },
+    {
+      "md5": "f194e4464b321c65925c2e5537f92b0f",
+      "fileName": "eco.dll",
+      "cheatName": "Eco",
+      "fileSize": 5686272,
+      "sha256": "64e3225bfa066ea711b9370f1f88c86d2fe29d50998f6ba1682f30b848a8b081"
+    },
+    {
+      "md5": "3696da71bcca95c3f4f4d6644d18d3c2",
+      "fileName": "neverlose.dll",
+      "cheatName": "Neverlose (nova build)",
+      "fileSize": 62594048,
+      "sha256": "6c7f4b1be81f745cca34f7e37b9e3a50dc650eaf87294eb41a2c8d47998c4995"
+    },
+    {
+      "md5": "743ea7ab2076dee04ef5b560ed583ed9",
+      "fileName": "sobakevich.dll",
+      "cheatName": "Sobakevich",
+      "fileSize": 9692160,
+      "sha256": "bebf9dd6b0488fe627a168d3f678a2c9eed4bc03f9192f64291d3e1bca49e303"
+    },
+    {
+      "md5": "6b19529c3dbc76187d7e9e1bb00bec74",
+      "fileName": "cs_go_ukrain_hook.dll",
+      "cheatName": "CS:GO Ukrain Hook",
+      "fileSize": 2971648,
+      "sha256": "23a3a10cb8cf71c6b21d00e5cbec91cc6753eee5f76a8ca3d0f818743a3eacfc"
     },
     {
       "md5": "4779a1ec0ace6620d87c92d9a24457a8",
@@ -260,7 +294,6 @@
       "fileSize": 1245184,
       "sha256": null
     },
-
     {
       "md5": "e7567a6063dd8adfdda1c988a8003896",
       "fileName": "wallhack.ahk",
